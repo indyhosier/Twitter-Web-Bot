@@ -1,0 +1,5 @@
+Consumer Key: f7e506GSMgCiTREIasPF3vOsV
+Consumer Key Secret: Ekp9TWqzyRMDV0x1ptZkGzxp14ojrcKddPaon9OXd2TIY8HkzH
+Access Token: 372074266-5oFuLJAzXGiAioEbxYunlj1EhNN6clC4e4ZmwygK
+Access Token Secret: XhfOZRfkxAR2ZmUKhDx9dT2jmuy6Pgbrtod9XZpEYXO0P
+Bearer Token: AAAAAAAAAAAAAAAAAAAAAKCmJAEAAAAAaFJ891Anlki7%2Fmlx81BtvqBKyo4%3DEmM9zPmfd9R9gMMOUVwmwOe4Zd29oF2YSzeg9O7FJ4aFGI32kU
